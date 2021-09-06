@@ -24,7 +24,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](https://github.com/Hollenfeuer1/Stats-Preview-Card-Component/blob/main/images/Stats_Component_Screenshot.jpeg?raw=true)
 
 ### Links
 
