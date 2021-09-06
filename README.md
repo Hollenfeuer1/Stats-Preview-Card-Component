@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Frontend Mentor: Hollenfeuer1](https://www.frontendmentor.io/solutions/stats-preview-card-component-V3ntkKXQ1)
 - Live Site URL: [Stats Preview Card Component GitPage](https://hollenfeuer1.github.io/Stats-Preview-Card-Component/)
 
 ## My process
